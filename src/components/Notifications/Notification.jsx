@@ -10,7 +10,7 @@ export function Notification({ user , readNoti }) {
 					<span className="noti__user-name">{user.name}</span>{" "}
 					<span>{user.content}</span>
 					{user.relevant && <span className="noti__user-relevant">{user.relevant}</span>}
-					{!user.read && <span className="noti__new" id="noti-unread"></span>}
+					{!user.read && <span className="noti__new"></span>}
 				</h1>
 				<h2 className="noti__time">{user.time}</h2>
 				{user.message && <div className="noti__message">{user.message}</div>}
