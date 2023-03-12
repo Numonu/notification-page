@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - More Solutions URL: [GitHub](https://github.com/Numonu)
-- Live Site URL: [Add live site URL here](https://numonu.github.io/notification-page)
+- Live Site URL: [GitHub Pages](https://numonu.github.io/notification-page)
 
 ## My process
 
